@@ -1,0 +1,43 @@
+#p-1{
+    width: 100%;
+    background-color: #8a2be2;
+    border: solid black;
+    
+}
+#a-1{
+    color: black;
+    /* padding: 65px; */
+    padding: 80px;
+    font-size: 40px;
+    
+}
+#str{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 50px;
+}
+#str-1{
+    color:#7fff00;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#str-2{
+    color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#para{
+    color:rgb(221, 45, 45);
+    font-size: 30px;
+}
+.rating {
+    font-size: 24px;
+    /* color: #f8ce0b; Yellow color for the filled star */
+    color: ;
+  }
+
+  .half {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+  }
+
+ 
