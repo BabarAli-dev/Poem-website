@@ -1,11 +1,13 @@
 #p-1{
     width: 100%;
     background-color: #8a2be2;
-    border: solid black;
+    /* border: solid black; */
+    padding-top: 10px;
+    padding-bottom: 20px;
     
 }
 #a-1{
-    color: black;
+    color: #f0ffff;
     /* padding: 65px; */
     padding: 80px;
     font-size: 40px;
@@ -16,22 +18,33 @@
     margin-top: 10px;
     font-size: 50px;
 }
-#str-1{
+/* #str-1{
     color:#7fff00;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */
+.poem1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aqua;
+    font-size: 70px;
+    letter-spacing: 10px;
+
+}
+#poem-1:first-letter {
+    color: greenyellow ;
+    font-size: 120px;
 }
 #str-2{
     color: aqua;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #para{
-    color:rgb(221, 45, 45);
+    color:brown;
     font-size: 30px;
 }
 .rating {
     font-size: 24px;
     /* color: #f8ce0b; Yellow color for the filled star */
-    color: ;
+    /* color: ; */
   }
 
   .half {
@@ -39,5 +52,11 @@
     display: inline-block;
     overflow: hidden;
   }
+  #para-1 {
+    font-family: 'Poppins';
+    font-weight: bold;
+    color: teal;
+    font-size: 30px;
+}
 
  
